@@ -1,5 +1,4 @@
-minecraft game
-(function() { 
+minecraft game.
 
     let score = 0; 
 
